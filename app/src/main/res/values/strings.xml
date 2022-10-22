@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppHorairesTrains By BAMMOU</string>
+    <string-array name="array_horaires">
+        <item>07h:45 min - 08h:55 min || 25€</item>
+        <item>08h:45 min - 09h:55 min || 30€</item>
+        <item>09h:45 min - 10h:55 min || 35€</item>
+        <item>10h:45 min - 11h:55 min || 60€</item>
+        <item>11h:45 min - 12h:55 min || 65€</item>
+        <item>12h:45 min - 13h:55 min || 45€</item>
+        <item>13h:45 min - 14h:55 min || 45€</item>
+        <item>14h:45 min - 15h:55 min || 40€</item>
+        <item>15h:45 min - 16h:55 min || 72€</item>
+        <item>16h:45 min - 17h:55 min || 84€</item>
+        <item>17h:45 min - 18h:55 min || 33€</item>
+        <item>18h:45 min - 19h:55 min || 44€</item>
+    </string-array>
+</resources>
